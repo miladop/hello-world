@@ -1,2 +1,3 @@
 # hello-world
-First project
+First project by Mike
+αυτες είναι οι πρώτες αλλαγές
